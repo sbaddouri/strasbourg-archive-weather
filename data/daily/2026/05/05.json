@@ -1,18 +1,13 @@
 {
   "date": "2026-05-05",
   "weather_code": 63,
-  "temp_max": 23.8,
-  "temp_min": 13.8,
-  "temp_mean": 18.3,
-  "precipitation": 6.1,
-  "sunshine": 42454.34,
-  "wind_speed_max": 27.2,
-  "sunrise": "2026-05-05T06:20",
-  "sunset": "2026-05-05T20:00",
-  "sunshine_duration_seconds": 42454.34,
-  "sunshine_duration_minutes": 708,
-  "estimated_daily_sunshine_minutes": 567,
-  "estimated_daily_sunshine": "9 h 27 min",
-  "sunshine_difference_minutes": 141,
-  "sunshine_consistency": "Faible"
+  "temp_max": 17.1,
+  "temp_min": 11.3,
+  "temp_mean": 14.2,
+  "precipitation": 4.8,
+  "sunshine": 8366.09,
+  "wind_speed_max": 11.4,
+  "sunrise": "2026-05-05T05:03",
+  "sunset": "2026-05-05T19:49",
+  "sunshine_duration_seconds": 8366.09
 }

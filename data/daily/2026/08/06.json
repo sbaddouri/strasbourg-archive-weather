@@ -1,18 +1,13 @@
 {
   "date": "2026-08-06",
-  "weather_code": 3,
-  "temp_max": 40.1,
-  "temp_min": 24.9,
-  "temp_mean": 31.4,
+  "weather_code": 1,
+  "temp_max": 28.4,
+  "temp_min": 19,
+  "temp_mean": 24,
   "precipitation": 0,
-  "sunshine": 43591.06,
-  "wind_speed_max": 28.4,
-  "sunrise": "2026-08-06T06:28",
-  "sunset": "2026-08-06T20:10",
-  "sunshine_duration_seconds": 43591.06,
-  "sunshine_duration_minutes": 727,
-  "estimated_daily_sunshine_minutes": 711,
-  "estimated_daily_sunshine": "11 h 51 min",
-  "sunshine_difference_minutes": 16,
-  "sunshine_consistency": "Moyen"
+  "sunshine": 51366.87,
+  "wind_speed_max": 18.1,
+  "sunrise": "2026-08-06T05:10",
+  "sunset": "2026-08-06T19:59",
+  "sunshine_duration_seconds": 51366.87
 }

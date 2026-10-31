@@ -1,18 +1,13 @@
 {
   "date": "2026-08-29",
-  "weather_code": 1,
-  "temp_max": 33.6,
-  "temp_min": 18.9,
-  "temp_mean": 25.5,
-  "precipitation": 0,
-  "sunshine": 43200,
-  "wind_speed_max": 24.1,
-  "sunrise": "2026-08-29T06:44",
-  "sunset": "2026-08-29T19:43",
-  "sunshine_duration_seconds": 43200,
-  "sunshine_duration_minutes": 720,
-  "estimated_daily_sunshine_minutes": 735,
-  "estimated_daily_sunshine": "12 h 15 min",
-  "sunshine_difference_minutes": 15,
-  "sunshine_consistency": "Bon"
+  "weather_code": 53,
+  "temp_max": 25.3,
+  "temp_min": 13.9,
+  "temp_mean": 19.6,
+  "precipitation": 1.6,
+  "sunshine": 46800,
+  "wind_speed_max": 18,
+  "sunrise": "2026-08-29T05:42",
+  "sunset": "2026-08-29T19:17",
+  "sunshine_duration_seconds": 46800
 }

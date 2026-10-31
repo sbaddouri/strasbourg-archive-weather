@@ -1,18 +1,13 @@
 {
   "date": "2026-02-23",
-  "weather_code": 0,
-  "temp_max": 24.7,
-  "temp_min": 6.5,
-  "temp_mean": 14.9,
-  "precipitation": 0,
-  "sunshine": 39600,
-  "wind_speed_max": 15.6,
-  "sunrise": "2026-02-23T07:49",
-  "sunset": "2026-02-23T19:04",
-  "sunshine_duration_seconds": 39600,
-  "sunshine_duration_minutes": 660,
-  "estimated_daily_sunshine_minutes": 720,
-  "estimated_daily_sunshine": "12 h 00 min",
-  "sunshine_difference_minutes": 60,
-  "sunshine_consistency": "Faible"
+  "weather_code": 61,
+  "temp_max": 14,
+  "temp_min": 9.2,
+  "temp_mean": 10.8,
+  "precipitation": 3.3,
+  "sunshine": 20297.28,
+  "wind_speed_max": 20.3,
+  "sunrise": "2026-02-23T07:22",
+  "sunset": "2026-02-23T18:03",
+  "sunshine_duration_seconds": 20297.28
 }

@@ -1,18 +1,13 @@
 {
   "date": "2026-10-24",
-  "weather_code": 2,
-  "temp_max": 25.7,
-  "temp_min": 15,
-  "temp_mean": 19.7,
-  "precipitation": 0,
-  "sunshine": 36000,
-  "wind_speed_max": 19.1,
-  "sunrise": "2026-10-24T07:26",
-  "sunset": "2026-10-24T18:28",
-  "sunshine_duration_seconds": 36000,
-  "sunshine_duration_minutes": 600,
-  "estimated_daily_sunshine_minutes": 660,
-  "estimated_daily_sunshine": "11 h 00 min",
-  "sunshine_difference_minutes": 60,
-  "sunshine_consistency": "Faible"
+  "weather_code": 61,
+  "temp_max": 12.5,
+  "temp_min": 7,
+  "temp_mean": 9.3,
+  "precipitation": 3.1,
+  "sunshine": 30271.01,
+  "wind_speed_max": 21.8,
+  "sunrise": "2026-10-24T07:03",
+  "sunset": "2026-10-24T17:23",
+  "sunshine_duration_seconds": 30271.01
 }

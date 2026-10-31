@@ -1,18 +1,13 @@
 {
   "date": "2026-04-01",
-  "weather_code": 1,
-  "temp_max": 21.6,
-  "temp_min": 9.7,
-  "temp_mean": 15.1,
-  "precipitation": 0,
-  "sunshine": 42900.64,
-  "wind_speed_max": 26.2,
-  "sunrise": "2026-04-01T07:00",
-  "sunset": "2026-04-01T19:34",
-  "sunshine_duration_seconds": 42900.64,
-  "sunshine_duration_minutes": 715,
-  "estimated_daily_sunshine_minutes": 765,
-  "estimated_daily_sunshine": "12 h 45 min",
-  "sunshine_difference_minutes": 50,
-  "sunshine_consistency": "Faible"
+  "weather_code": 53,
+  "temp_max": 10.3,
+  "temp_min": 0.9,
+  "temp_mean": 5.9,
+  "precipitation": 2.3,
+  "sunshine": 42450.54,
+  "wind_speed_max": 12.9,
+  "sunrise": "2026-04-01T06:07",
+  "sunset": "2026-04-01T19:00",
+  "sunshine_duration_seconds": 42450.54
 }

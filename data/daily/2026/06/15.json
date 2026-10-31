@@ -1,18 +1,13 @@
 {
   "date": "2026-06-15",
   "weather_code": 2,
-  "temp_max": 35.5,
-  "temp_min": 18.8,
-  "temp_mean": 26.2,
+  "temp_max": 23.6,
+  "temp_min": 10.4,
+  "temp_mean": 17.8,
   "precipitation": 0,
-  "sunshine": 47858.9,
-  "wind_speed_max": 31.8,
-  "sunrise": "2026-06-15T06:01",
-  "sunset": "2026-06-15T20:26",
-  "sunshine_duration_seconds": 47858.9,
-  "sunshine_duration_minutes": 798,
-  "estimated_daily_sunshine_minutes": 660,
-  "estimated_daily_sunshine": "11 h 00 min",
-  "sunshine_difference_minutes": 138,
-  "sunshine_consistency": "Faible"
+  "sunshine": 54047.1,
+  "wind_speed_max": 11.7,
+  "sunrise": "2026-06-15T04:27",
+  "sunset": "2026-06-15T20:33",
+  "sunshine_duration_seconds": 54047.1
 }

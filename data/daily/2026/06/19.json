@@ -1,18 +1,13 @@
 {
   "date": "2026-06-19",
-  "weather_code": 3,
+  "weather_code": 63,
   "temp_max": 34.4,
-  "temp_min": 19,
-  "temp_mean": 25.6,
-  "precipitation": 0,
-  "sunshine": 44860.53,
-  "wind_speed_max": 32.7,
-  "sunrise": "2026-06-19T06:01",
-  "sunset": "2026-06-19T20:28",
-  "sunshine_duration_seconds": 44860.53,
-  "sunshine_duration_minutes": 748,
-  "estimated_daily_sunshine_minutes": 480,
-  "estimated_daily_sunshine": "8 h 00 min",
-  "sunshine_difference_minutes": 268,
-  "sunshine_consistency": "Faible"
+  "temp_min": 21.1,
+  "temp_mean": 27.5,
+  "precipitation": 3.2,
+  "sunshine": 50455.3,
+  "wind_speed_max": 19.9,
+  "sunrise": "2026-06-19T04:27",
+  "sunset": "2026-06-19T20:34",
+  "sunshine_duration_seconds": 50455.3
 }
