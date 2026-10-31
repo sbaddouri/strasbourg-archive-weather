@@ -1,13 +1,13 @@
 {
-  "name": "guercifarchiveweather",
+  "name": "strasbourgarchiveweather",
   "version": "0.1.0",
   "private": true,
   "author": "sbaddouri",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbaddouri/guercif-archive-weather.git"
+    "url": "git+https://github.com/sbaddouri/strasbourg-archive-weather.git"
   },
-  "homepage": "https://github.com/sbaddouri/guercif-archive-weather#readme",
+  "homepage": "https://github.com/sbaddouri/strasbourg-archive-weather#readme",
   "scripts": {
     "dev": "next dev",
     "build": "next build --webpack",

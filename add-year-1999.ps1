@@ -1,4 +1,4 @@
-# Script PowerShell pour ajouter l'année 1999 au projet guercifarchiveweather
+# Script PowerShell pour ajouter l'année 1999 au projet strasbourgarchiveweather
 # À exécuter étape par étape, ne pas exécuter en une seule fois
 
 Write-Host "=========================================" -ForegroundColor Cyan
@@ -32,7 +32,7 @@ if ($gitVersion) {
 
 Write-Host ""
 Write-Host "3. Positionnement dans le dossier du projet..." -ForegroundColor Gray
-$projectPath = "c:\Users\sofia\Desktop\guercifarchiveweather"
+$projectPath = "c:\Users\sofia\Desktop\strasbourgarchiveweather"
 if (Test-Path $projectPath) {
     Set-Location $projectPath
     Write-Host "   ✅ Dossier trouvé: $projectPath" -ForegroundColor Green

@@ -2,7 +2,7 @@
 
 ## ✅ Préparation
 - [ ] Ouvrir PowerShell en tant qu'administrateur si nécessaire
-- [ ] Se placer dans le dossier du projet : `cd c:\Users\sofia\Desktop\guercifarchiveweather`
+- [ ] Se placer dans le dossier du projet : `cd c:\Users\sofia\Desktop\strasbourgarchiveweather`
 - [ ] Vérifier que Node.js est installé : `node --version`
 - [ ] Vérifier que Git est installé : `git --version`
 
@@ -64,7 +64,7 @@
 ## ✅ Déploiement Vercel
 - [ ] Attendre le déploiement automatique (si configuré)
 - [ ] **OU** déployer manuellement : `vercel --prod`
-- [ ] Vérifier le site : https://guercifarchiveweather.vercel.app
+- [ ] Vérifier le site : https://strasbourgarchiveweather.vercel.app
 - [ ] Vérifier que l'année 1999 est accessible
 
 ## ✅ Vérification finale

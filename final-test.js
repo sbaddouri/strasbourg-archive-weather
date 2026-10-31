@@ -55,7 +55,7 @@ if (hourlyData1999[0] && hourlyData1999[0].estimated_hourly_sunshine_minutes !==
 
 // 4. Vérifier que la page des mois a été modifiée
 console.log('\n4. Vérification des modifications dans la page des mois:');
-const monthPagePath = path.join(__dirname, 'src', 'app', 'climatologie', 'mois', '[year]', '[month]', 'guercif', 'page.tsx');
+const monthPagePath = path.join(__dirname, 'src', 'app', 'climatologie', 'mois', '[year]', '[month]', 'strasbourg', 'page.tsx');
 const monthPageContent = fs.readFileSync(monthPagePath, 'utf8');
 
 if (monthPageContent.includes('onError={(e) => {')) {

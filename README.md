@@ -1,6 +1,6 @@
-# Guercif Weather Archive
+# Strasbourg Weather Archive
 
-Archives climatologiques de Guercif, Maroc. Ce projet récupère automatiquement les données météo historiques et les présente de manière interactive.
+Archives climatologiques de Strasbourg, France. Ce projet récupère automatiquement les données météo historiques et les présente de manière interactive.
 
 ## Fonctionnalités
 
@@ -11,7 +11,7 @@ Archives climatologiques de Guercif, Maroc. Ce projet récupère automatiquement
 
 ## GitHub Actions
 
-Le projet utilise GitHub Actions pour mettre à jour les données quotidiennement. Vous pouvez voir les exécutions ici : [GitHub Actions Runs](https://github.com/sbaddouri/guercif-archive-weather/actions)
+Le projet utilise GitHub Actions pour mettre à jour les données quotidiennement. Vous pouvez voir les exécutions ici : [GitHub Actions Runs](https://github.com/sbaddouri/strasbourg-archive-weather/actions)
 
 ## Installation
 

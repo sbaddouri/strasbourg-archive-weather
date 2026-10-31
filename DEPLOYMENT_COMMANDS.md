@@ -20,7 +20,7 @@
 ### 1. Vérifier l'état actuel du projet
 ```powershell
 # Se positionner dans le dossier du projet
-cd c:\Users\sofia\Desktop\guercifarchiveweather
+cd c:\Users\sofia\Desktop\strasbourgarchiveweather
 
 # Vérifier les fichiers modifiés
 git status
@@ -74,8 +74,8 @@ git push -u origin add-year-2000
 #### Option A : Déploiement automatique via GitHub (recommandé)
 Si votre projet est connecté à Vercel avec GitHub :
 1. Les changements seront automatiquement déployés après le push sur GitHub
-2. Vérifiez le déploiement sur : https://vercel.com/{votre-compte}/guercifarchiveweather
-3. Le site sera mis à jour à : https://guercifarchiveweather.vercel.app
+2. Vérifiez le déploiement sur : https://vercel.com/{votre-compte}/strasbourgarchiveweather
+3. Le site sera mis à jour à : https://strasbourgarchiveweather.vercel.app
 
 #### Option B : Déploiement manuel via CLI Vercel
 ```powershell
@@ -95,20 +95,20 @@ vercel
 ### 6. Vérifier le déploiement
 ```powershell
 # Vérifier que le site fonctionne
-curl https://guercifarchiveweather.vercel.app
+curl https://strasbourgarchiveweather.vercel.app
 
 # Vérifier l'API des données
-curl https://guercifarchiveweather.vercel.app/api/weather/2000
+curl https://strasbourgarchiveweather.vercel.app/api/weather/2000
 
 # Tester une date spécifique
-curl https://guercifarchiveweather.vercel.app/api/weather/2000/01/01
+curl https://strasbourgarchiveweather.vercel.app/api/weather/2000/01/01
 ```
 
 ## Validation du déploiement
 
 Après déploiement, vérifiez que :
 
-1. **Le site charge correctement** : https://guercifarchiveweather.vercel.app
+1. **Le site charge correctement** : https://strasbourgarchiveweather.vercel.app
 2. **L'année 2000 est disponible** dans le sélecteur d'années
 3. **Les données sont cohérentes** :
    - Température du 1er janvier 2000 : 2.1°C → 11.7°C
@@ -148,7 +148,7 @@ data/
 ## Dépannage
 
 ### Si le déploiement échoue
-1. Vérifier les logs Vercel : https://vercel.com/{compte}/guercifarchiveweather/deployments
+1. Vérifier les logs Vercel : https://vercel.com/{compte}/strasbourgarchiveweather/deployments
 2. Vérifier que `next.config.ts` est correctement configuré
 3. S'assurer que toutes les dépendances sont installées : `npm install`
 

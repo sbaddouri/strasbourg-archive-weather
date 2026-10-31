@@ -9,8 +9,8 @@
 - **Préservation intégrale** des années 2000-2026 existantes
 
 ## Configuration API Open-Meteo
-- **Coordonnées** : `latitude=34.2257`, `longitude=-3.3536` (exactement comme spécifié)
-- **Fuseau horaire** : `Africa/Casablanca` 
+- **Coordonnées** : `latitude=48.5388708`, `longitude=7.6254456` (exactement comme spécifié)
+- **Fuseau horaire** : `Europe/Paris` 
 - **Période** : `start_date=1999-01-01`, `end_date=1999-12-31`
 - **Modèle** : `best_match` (Reanalysis models: Best Match)
 - **Variables horaires** : temperature_2m, relative_humidity_2m, dew_point_2m, precipitation, weather_code, pressure_msl, wind_speed_10m, wind_gusts_10m, visibility, uv_index, sunshine_duration
@@ -21,7 +21,7 @@
 ### 1. Vérifier l'état actuel du projet
 ```powershell
 # Se positionner dans le dossier du projet
-cd c:\Users\sofia\Desktop\guercifarchiveweather
+cd c:\Users\sofia\Desktop\strasbourgarchiveweather
 
 # Vérifier les fichiers existants
 git status
@@ -140,7 +140,7 @@ git commit -m "feat: ajout de l'année 1999 complète avec données exactes Open
 - Ajout de 365 jours de données météorologiques pour 1999
 - Données exactes sans approximation ni arrondi (API Open-Meteo)
 - Utilisation du modèle 'best_match' comme spécifié
-- Coordonnées exactes: latitude=34.2257, longitude=-3.3536
+- Coordonnées exactes: latitude=48.5388708, longitude=7.6254456
 - 8760 heures de données horaires précises
 - Préservation intacte des années 2000-2026 existantes
 - Vérification d'intégrité réussie pour tous les jours
@@ -165,8 +165,8 @@ git log --oneline -5
 #### Option A : Déploiement automatique via GitHub (recommandé)
 Si votre projet est connecté à Vercel avec GitHub :
 1. Les changements seront automatiquement déployés après le push sur GitHub
-2. Vérifiez le déploiement sur : https://vercel.com/{votre-compte}/guercifarchiveweather
-3. Le site sera mis à jour à : https://guercifarchiveweather.vercel.app
+2. Vérifiez le déploiement sur : https://vercel.com/{votre-compte}/strasbourgarchiveweather
+3. Le site sera mis à jour à : https://strasbourgarchiveweather.vercel.app
 
 #### Option B : Déploiement manuel via CLI Vercel
 ```powershell
@@ -186,7 +186,7 @@ vercel
 ### 11. Vérifier le déploiement et le site web
 ```powershell
 # Vérifier que le site fonctionne
-curl https://guercifarchiveweather.vercel.app
+curl https://strasbourgarchiveweather.vercel.app
 
 # Vérifier que l'année 1999 est accessible via l'API du site
 # (dépend de l'implémentation de votre application)
@@ -223,7 +223,7 @@ Write-Host "Total jours de données : $totalDays"
 ### Si l'API Open-Meteo échoue :
 ```powershell
 # Vérifier la connectivité
-curl "https://archive-api.open-meteo.com/v1/archive?latitude=34.2257&longitude=-3.3536&start_date=1999-01-01&end_date=1999-01-02&hourly=temperature_2m&daily=temperature_2m_max&timezone=Africa/Casablanca"
+curl "https://archive-api.open-meteo.com/v1/archive?latitude=48.5388708&longitude=7.6254456&start_date=1999-01-01&end_date=1999-01-02&hourly=temperature_2m&daily=temperature_2m_max&timezone=Europe/Paris"
 
 # Vérifier si l'année 1999 est disponible dans l'API
 # Certaines API historiques peuvent avoir des limites
@@ -274,7 +274,7 @@ vercel --force
 5. **Documentez** toute erreur ou problème rencontré
 
 ## Succès attendu
-Après exécution complète de ces commandes, votre site https://guercifarchiveweather.vercel.app aura :
+Après exécution complète de ces commandes, votre site https://strasbourgarchiveweather.vercel.app aura :
 - ✅ Année 1999 complète (365 jours)
 - ✅ Années 2000-2026 intactes
 - ✅ Données exactes d'Open-Meteo (sans approximations)
