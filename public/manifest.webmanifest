@@ -1,0 +1,16 @@
+{
+  "name": "Strasbourg Weather Archive",
+  "short_name": "Strasbourg Weather",
+  "description": "Archives climatologiques de Strasbourg, France",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/next.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
