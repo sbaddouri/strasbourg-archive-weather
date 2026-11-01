@@ -2376,7 +2376,7 @@ export default async function RecordsAbsolusPage() {
         </CardHeader>
         <CardContent>
           <ol className="list-decimal pl-5 space-y-1">
-            <li>Données basées sur les relevés journaliers Open-Meteo (ERA5 reanalysis) pour strasbourg (34.2257°N, -3.3536°W).</li>
+            <li>Données basées sur les relevés journaliers Open-Meteo (ERA5 reanalysis) pour strasbourg (48.5388708°N, 7.6254456°W).</li>
             <li>Période couverte : janvier 1940 à janvier 2026 (87 années).</li>
             <li>Tempé. maxi extrême : valeur maximale de temp_max journalière pour chaque mois sur toute la période.</li>
             <li>Tempé. mini maximale : valeur maximale de temp_min journalière pour chaque mois sur toute la période (nuit la plus chaude).</li>
@@ -2403,6 +2403,7 @@ export default async function RecordsAbsolusPage() {
     </div>
   );
 }
+
 
 
 

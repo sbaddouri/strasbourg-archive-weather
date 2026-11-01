@@ -2,9 +2,9 @@ import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
 
-const LAT = 34.2257;
-const LON = -3.3536;
-const TIMEZONE = 'Africa/Casablanca';
+const LAT = 48.5388708;
+const LON = 7.6254456;
+const TIMEZONE = 'Europe/Paris';
 const MODEL = 'best_match';
 const YEAR = 2008;
 const EXPECTED_DAYS = 366; // 2008 est une année bissextile (29 jours en février)
@@ -141,3 +141,4 @@ verify2008Data().catch(err => {
   console.error(err);
   process.exit(1);
 });
+

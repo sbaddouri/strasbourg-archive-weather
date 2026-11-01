@@ -9,9 +9,9 @@ import {
   convertOfficialSunshineToMinutes
 } from '../src/lib/weather-colors';
 
-const LAT = 34.2257;
-const LON = -3.3536;
-const TIMEZONE = 'Africa/Casablanca';
+const LAT = 48.5388708;
+const LON = 7.6254456;
+const TIMEZONE = 'Europe/Paris';
 const MODEL = 'best_match';
 const YEAR = 1988;
 const EXPECTED_DAYS = 366; // 1988 est une année bissextile (29 jours en février)

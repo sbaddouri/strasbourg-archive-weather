@@ -4,7 +4,7 @@ import { format, subDays } from 'date-fns';
 async function testAvailability() {
   const LAT = 34.22199159989515;
   const LON = -3.3490744462380326;
-  const TIMEZONE = 'Africa/Casablanca';
+  const TIMEZONE = 'Europe/Paris';
   
   const today = new Date();
   const oneDayAgo = format(subDays(today, 1), 'yyyy-MM-dd');

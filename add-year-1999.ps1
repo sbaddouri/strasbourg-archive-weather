@@ -127,7 +127,7 @@ Write-Host "ÉTAPE 4: RÉCUPÉRATION DES DONNÉES 1999" -ForegroundColor Yellow
 Write-Host ""
 Write-Host "Cette étape va récupérer les données de l'API Open-Meteo." -ForegroundColor Gray
 Write-Host "URL utilisée: https://archive-api.open-meteo.com/v1/archive?" -ForegroundColor Gray
-Write-Host "Paramètres: latitude=34.2257, longitude=-3.3536, modèle=best_match" -ForegroundColor Gray
+Write-Host "Paramètres: latitude=48.5388708, longitude=7.6254456, modèle=best_match" -ForegroundColor Gray
 Write-Host "Période: 1999-01-01 à 1999-12-31 (365 jours)" -ForegroundColor Gray
 Write-Host ""
 

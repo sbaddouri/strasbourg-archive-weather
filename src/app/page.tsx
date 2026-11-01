@@ -29,14 +29,14 @@ export default async function Home() {
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "strasbourg Weather Archive",
-    "description": "Archives météorologiques et climatologiques de strasbourg, Maroc.",
+    "description": "Archives météorologiques et climatologiques de strasbourg, France.",
     "url": "https://strasbourg-weather.vercel.app",
     "applicationCategory": "WeatherService",
     "address": {
       "@type": "PostalAddress",
       "addressLocality": "strasbourg",
-      "addressRegion": "Oriental",
-      "addressCountry": "MA"
+      "addressRegion": "Grand Est",
+      "addressCountry": "FR"
     }
   };
 
@@ -48,7 +48,7 @@ export default async function Home() {
           strasbourg <span className="text-primary">Archive</span> Weather
         </h1>
         <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-          Découvrez la climatologie détaillée de strasbourg, Oriental, Maroc. 
+          Découvrez la climatologie détaillée de strasbourg, Grand Est, France. 
           Archives historiques, graphiques interactifs et statistiques précises.
         </p>
       </section>
@@ -192,15 +192,15 @@ export default async function Home() {
                 </div>
                 <div className="flex justify-between">
                   <span className="text-muted-foreground">Région:</span>
-                  <span className="font-medium">Oriental</span>
+                  <span className="font-medium">Grand Est</span>
                 </div>
                 <div className="flex justify-between">
                   <span className="text-muted-foreground">Pays:</span>
-                  <span className="font-medium">Maroc</span>
+                  <span className="font-medium">France</span>
                 </div>
                 <div className="flex justify-between">
                   <span className="text-muted-foreground">Coordonnées:</span>
-                  <span className="font-medium">34.22°N, 3.35°W</span>
+                  <span className="font-medium">48.54°N, 7.63°E</span>
                 </div>
               </div>
               <Link href="/archives" className="block">

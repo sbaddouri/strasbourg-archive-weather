@@ -10,9 +10,9 @@ import {
   convertOfficialSunshineToMinutes
 } from '../src/lib/weather-colors';
 
-const LAT = 34.2257;
-const LON = -3.3536;
-const TIMEZONE = 'Africa/Casablanca';
+const LAT = 48.5388708;
+const LON = 7.6254456;
+const TIMEZONE = 'Europe/Paris';
 const MODEL = 'best_match';
 
 const DATA_DIR = path.join(process.cwd(), 'data');
@@ -309,7 +309,7 @@ async function main() {
       initialEndDate = args[1];
     } else {
       // Force Casablanca timezone to prevent UTC day offset issues in GitHub Actions
-      const casablancaTimeStr = new Date().toLocaleString("en-US", { timeZone: "Africa/Casablanca" });
+      const casablancaTimeStr = new Date().toLocaleString("en-US", { timeZone: "Europe/Paris" });
       const today = new Date(casablancaTimeStr);
       const oneDayAgo = subDays(today, 1);
       initialEndDate = format(oneDayAgo, 'yyyy-MM-dd');
@@ -412,3 +412,4 @@ main().catch((error: any) => {
   console.error('[FATAL ERROR]:', error.message);
   process.exitCode = 1;
 });
+

@@ -15,13 +15,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "strasbourg Weather Archive - Climatologie de strasbourg, Maroc",
-  description: "Archives météorologiques complètes de strasbourg, Oriental, Maroc. Températures, précipitations et statistiques climatiques.",
-  keywords: ["strasbourg", "Météo", "Climatologie", "Maroc", "Archives Météo", "Oriental", "Températures", "Pluie", "Radar Météo", "Rapport Scientifique"],
+  title: "strasbourg Weather Archive - Climatologie de strasbourg, France",
+  description: "Archives météorologiques complètes de strasbourg, Grand Est, France. Températures, précipitations et statistiques climatiques.",
+  keywords: ["strasbourg", "Météo", "Climatologie", "France", "Archives Météo", "Grand Est", "Températures", "Pluie", "Radar Météo", "Rapport Scientifique"],
   authors: [{ name: "strasbourg Weather" }],
   openGraph: {
     title: "strasbourg Weather Archive",
-    description: "Climatologie et archives météo de strasbourg, Maroc.",
+    description: "Climatologie et archives météo de strasbourg, France.",
     url: "https://strasbourgarchiveweather.vercel.app",
     siteName: "strasbourg Weather",
     locale: "fr_FR",

@@ -2,9 +2,9 @@ import axios from 'axios';
 import fs from 'fs';
 import path from 'path';
 
-const LAT = 34.2257;
-const LON = -3.3536;
-const TIMEZONE = 'Africa/Casablanca';
+const LAT = 48.5388708;
+const LON = 7.6254456;
+const TIMEZONE = 'Europe/Paris';
 const MODEL = 'best_match';
 const YEAR = '2013';
 const EXPECTED_DAYS = 365;
@@ -130,3 +130,4 @@ verifyDates().catch(err => {
   console.error(err);
   process.exit(1);
 });
+

@@ -18,7 +18,7 @@ export default function RadarPage() {
         <CardContent className="p-0">
           <div className="relative w-full" style={{ height: "80vh", minHeight: "650px" }}>
             <iframe
-              src="https://www.meteoetradar.com/carte-meteo/strasbourg/11346395?center=34.2257,-3.3536&placemark=34.2257,-3.3536&layer=wr"
+              src="https://www.meteoetradar.com/carte-meteo/strasbourg/11346395?center=48.5388708,7.6254456&placemark=48.5388708,7.6254456&layer=wr"
               title="Radar Météorologique strasbourg"
               className="w-full h-full border-0"
               allowFullScreen
@@ -86,4 +86,5 @@ export default function RadarPage() {
     </div>
   );
 }
+
 

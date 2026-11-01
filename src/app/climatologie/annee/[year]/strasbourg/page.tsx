@@ -185,7 +185,7 @@ export default async function YearPage({ params }: PageProps) {
               </button>
             </Link>
           )}
-          <h1 className="text-3xl font-bold text-center">Données climatiques {year} - strasbourg, Maroc</h1>
+          <h1 className="text-3xl font-bold text-center">Données climatiques {year} - strasbourg, France</h1>
           <Link href={`/climatologie/annee/${nextYear}/strasbourg`}>
             <button className={cn(buttonVariants({ variant: "ghost" }), "disabled:opacity-50")} disabled={!hasNext}>
               Année suivante →

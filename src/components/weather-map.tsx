@@ -13,7 +13,7 @@ const icon = L.icon({
 });
 
 export default function WeatherMap() {
-  const position: [number, number] = [34.22199159989515, -3.3490744462380326];
+  const position: [number, number] = [48.5734, 7.7521];
 
   return (
     <div className="h-[400px] w-full rounded-xl overflow-hidden border shadow-sm">
@@ -30,7 +30,7 @@ export default function WeatherMap() {
         />
         <Marker position={position} icon={icon}>
           <Popup>
-            strasbourg, Maroc <br /> Station météo archivée.
+            strasbourg, France <br /> Station météo archivée.
           </Popup>
         </Marker>
       </MapContainer>
