@@ -1,18 +1,13 @@
 {
   "date": "2025-02-14",
-  "weather_code": 0,
-  "temp_max": 24.5,
-  "temp_min": 6,
-  "temp_mean": 14.2,
-  "precipitation": 0,
-  "sunshine": 38930.72,
-  "wind_speed_max": 18.5,
-  "sunrise": "2025-02-14T07:59",
-  "sunset": "2025-02-14T18:56",
-  "sunshine_duration_seconds": 38930.72,
-  "sunshine_duration_minutes": 649,
-  "estimated_daily_sunshine_minutes": 660,
-  "estimated_daily_sunshine": "11 h 00 min",
-  "sunshine_difference_minutes": 11,
-  "sunshine_consistency": "Bon"
+  "weather_code": 73,
+  "temp_max": 2.3,
+  "temp_min": -1.6,
+  "temp_mean": 0.6,
+  "precipitation": 1.9,
+  "sunshine": 9221.4,
+  "wind_speed_max": 14.6,
+  "sunrise": "2025-02-14T07:38",
+  "sunset": "2025-02-14T17:49",
+  "sunshine_duration_seconds": 9221.4
 }

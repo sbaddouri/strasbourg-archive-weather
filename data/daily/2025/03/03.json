@@ -1,18 +1,13 @@
 {
   "date": "2025-03-03",
-  "weather_code": 3,
-  "temp_max": 21.6,
-  "temp_min": 10.3,
-  "temp_mean": 14.6,
+  "weather_code": 1,
+  "temp_max": 10.1,
+  "temp_min": -1.6,
+  "temp_mean": 3.3,
   "precipitation": 0,
-  "sunshine": 32812.45,
-  "wind_speed_max": 20.2,
-  "sunrise": "2025-03-03T07:39",
-  "sunset": "2025-03-03T19:11",
-  "sunshine_duration_seconds": 32812.45,
-  "sunshine_duration_minutes": 547,
-  "estimated_daily_sunshine_minutes": 306,
-  "estimated_daily_sunshine": "5 h 06 min",
-  "sunshine_difference_minutes": 241,
-  "sunshine_consistency": "Faible"
+  "sunshine": 38878.49,
+  "wind_speed_max": 6.8,
+  "sunrise": "2025-03-03T07:06",
+  "sunset": "2025-03-03T18:16",
+  "sunshine_duration_seconds": 38878.49
 }

@@ -1,18 +1,13 @@
 {
   "date": "2025-07-07",
-  "weather_code": 0,
-  "temp_max": 39.8,
-  "temp_min": 23.5,
-  "temp_mean": 30.4,
-  "precipitation": 0,
-  "sunshine": 46779.67,
-  "wind_speed_max": 29.5,
-  "sunrise": "2025-07-07T06:08",
-  "sunset": "2025-07-07T20:28",
-  "sunshine_duration_seconds": 46779.67,
-  "sunshine_duration_minutes": 780,
-  "estimated_daily_sunshine_minutes": 840,
-  "estimated_daily_sunshine": "14 h 00 min",
-  "sunshine_difference_minutes": 60,
-  "sunshine_consistency": "Faible"
+  "weather_code": 61,
+  "temp_max": 21.5,
+  "temp_min": 15.1,
+  "temp_mean": 17.6,
+  "precipitation": 8.1,
+  "sunshine": 41231.45,
+  "wind_speed_max": 18.6,
+  "sunrise": "2025-07-07T04:36",
+  "sunset": "2025-07-07T20:32",
+  "sunshine_duration_seconds": 41231.45
 }

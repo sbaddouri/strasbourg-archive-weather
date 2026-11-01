@@ -1,18 +1,13 @@
 {
   "date": "2025-12-11",
   "weather_code": 51,
-  "temp_max": 16,
-  "temp_min": 7.6,
-  "temp_mean": 11,
-  "precipitation": 0.2,
-  "sunshine": 34224.94,
-  "wind_speed_max": 10.4,
-  "sunrise": "2025-12-11T08:09",
-  "sunset": "2025-12-11T18:04",
-  "sunshine_duration_seconds": 34224.94,
-  "sunshine_duration_minutes": 570,
-  "estimated_daily_sunshine_minutes": 555,
-  "estimated_daily_sunshine": "9 h 15 min",
-  "sunshine_difference_minutes": 15,
-  "sunshine_consistency": "Bon"
+  "temp_max": 10.3,
+  "temp_min": 5.7,
+  "temp_mean": 7.9,
+  "precipitation": 0.5,
+  "sunshine": 638.1,
+  "wind_speed_max": 7.3,
+  "sunrise": "2025-12-11T08:11",
+  "sunset": "2025-12-11T16:34",
+  "sunshine_duration_seconds": 638.1
 }

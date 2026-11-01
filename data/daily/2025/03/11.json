@@ -1,18 +1,13 @@
 {
   "date": "2025-03-11",
   "weather_code": 63,
-  "temp_max": 17.1,
-  "temp_min": 9.1,
-  "temp_mean": 12.8,
-  "precipitation": 15.2,
-  "sunshine": 7082.47,
-  "wind_speed_max": 25.3,
-  "sunrise": "2025-03-11T07:29",
-  "sunset": "2025-03-11T19:18",
-  "sunshine_duration_seconds": 7082.47,
-  "sunshine_duration_minutes": 118,
-  "estimated_daily_sunshine_minutes": 132,
-  "estimated_daily_sunshine": "2 h 12 min",
-  "sunshine_difference_minutes": 14,
-  "sunshine_consistency": "Bon"
+  "temp_max": 13.2,
+  "temp_min": 2.6,
+  "temp_mean": 7.4,
+  "precipitation": 9.1,
+  "sunshine": 28586.79,
+  "wind_speed_max": 7,
+  "sunrise": "2025-03-11T06:51",
+  "sunset": "2025-03-11T18:29",
+  "sunshine_duration_seconds": 28586.79
 }

@@ -1,18 +1,13 @@
 {
   "date": "2025-12-27",
-  "weather_code": 55,
-  "temp_max": 15.2,
-  "temp_min": 5.8,
-  "temp_mean": 9,
-  "precipitation": 1.2,
-  "sunshine": 25179.47,
-  "wind_speed_max": 14.3,
-  "sunrise": "2025-12-27T08:18",
-  "sunset": "2025-12-27T18:11",
-  "sunshine_duration_seconds": 25179.47,
-  "sunshine_duration_minutes": 420,
-  "estimated_daily_sunshine_minutes": 270,
-  "estimated_daily_sunshine": "4 h 30 min",
-  "sunshine_difference_minutes": 150,
-  "sunshine_consistency": "Faible"
+  "weather_code": 1,
+  "temp_max": 2.2,
+  "temp_min": -3.4,
+  "temp_mean": -1.4,
+  "precipitation": 0,
+  "sunshine": 27194.37,
+  "wind_speed_max": 6.1,
+  "sunrise": "2025-12-27T08:21",
+  "sunset": "2025-12-27T16:40",
+  "sunshine_duration_seconds": 27194.37
 }

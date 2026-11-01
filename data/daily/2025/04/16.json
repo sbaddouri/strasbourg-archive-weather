@@ -1,18 +1,13 @@
 {
   "date": "2025-04-16",
   "weather_code": 51,
-  "temp_max": 16.6,
-  "temp_min": 8.2,
-  "temp_mean": 11.9,
-  "precipitation": 0.1,
-  "sunshine": 43639.26,
-  "wind_speed_max": 33.5,
-  "sunrise": "2025-04-16T06:41",
-  "sunset": "2025-04-16T19:46",
-  "sunshine_duration_seconds": 43639.26,
-  "sunshine_duration_minutes": 727,
-  "estimated_daily_sunshine_minutes": 561,
-  "estimated_daily_sunshine": "9 h 21 min",
-  "sunshine_difference_minutes": 166,
-  "sunshine_consistency": "Faible"
+  "temp_max": 13.7,
+  "temp_min": 8.9,
+  "temp_mean": 11.2,
+  "precipitation": 0.5,
+  "sunshine": 2309.6,
+  "wind_speed_max": 22.8,
+  "sunrise": "2025-04-16T05:37",
+  "sunset": "2025-04-16T19:22",
+  "sunshine_duration_seconds": 2309.6
 }
