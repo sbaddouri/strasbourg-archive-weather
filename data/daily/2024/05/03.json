@@ -1,18 +1,13 @@
 {
   "date": "2024-05-03",
-  "weather_code": 2,
-  "temp_max": 26.5,
-  "temp_min": 9.5,
-  "temp_mean": 17.6,
-  "precipitation": 0,
-  "sunshine": 45029.24,
-  "wind_speed_max": 23.7,
-  "sunrise": "2024-05-03T06:21",
-  "sunset": "2024-05-03T19:59",
-  "sunshine_duration_seconds": 45029.24,
-  "sunshine_duration_minutes": 750,
-  "estimated_daily_sunshine_minutes": 780,
-  "estimated_daily_sunshine": "13 h 00 min",
-  "sunshine_difference_minutes": 30,
-  "sunshine_consistency": "Moyen"
+  "weather_code": 53,
+  "temp_max": 15.5,
+  "temp_min": 9.2,
+  "temp_mean": 12.1,
+  "precipitation": 1.7,
+  "sunshine": 19142.82,
+  "wind_speed_max": 14.2,
+  "sunrise": "2024-05-03T05:06",
+  "sunset": "2024-05-03T19:47",
+  "sunshine_duration_seconds": 19142.82
 }

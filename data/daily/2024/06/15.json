@@ -1,18 +1,13 @@
 {
   "date": "2024-06-15",
-  "weather_code": 55,
-  "temp_max": 33.7,
-  "temp_min": 23.8,
-  "temp_mean": 27.1,
-  "precipitation": 1.2,
-  "sunshine": 35386.88,
-  "wind_speed_max": 35,
-  "sunrise": "2024-06-15T06:01",
-  "sunset": "2024-06-15T20:27",
-  "sunshine_duration_seconds": 35386.88,
-  "sunshine_duration_minutes": 590,
-  "estimated_daily_sunshine_minutes": 363,
-  "estimated_daily_sunshine": "6 h 03 min",
-  "sunshine_difference_minutes": 227,
-  "sunshine_consistency": "Faible"
+  "weather_code": 61,
+  "temp_max": 19.5,
+  "temp_min": 13.5,
+  "temp_mean": 16.8,
+  "precipitation": 7.1,
+  "sunshine": 47027.65,
+  "wind_speed_max": 21.4,
+  "sunrise": "2024-06-15T04:27",
+  "sunset": "2024-06-15T20:33",
+  "sunshine_duration_seconds": 47027.65
 }

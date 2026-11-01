@@ -1,18 +1,13 @@
 {
   "date": "2024-11-19",
-  "weather_code": 51,
-  "temp_max": 21.9,
-  "temp_min": 14.7,
-  "temp_mean": 17,
-  "precipitation": 0.2,
-  "sunshine": 11829.62,
-  "wind_speed_max": 22.3,
-  "sunrise": "2024-11-19T07:50",
-  "sunset": "2024-11-19T18:07",
-  "sunshine_duration_seconds": 11829.62,
-  "sunshine_duration_minutes": 197,
-  "estimated_daily_sunshine_minutes": 84,
-  "estimated_daily_sunshine": "1 h 24 min",
-  "sunshine_difference_minutes": 113,
-  "sunshine_consistency": "Faible"
+  "weather_code": 63,
+  "temp_max": 11.6,
+  "temp_min": 5.6,
+  "temp_mean": 9.2,
+  "precipitation": 30.7,
+  "sunshine": 0,
+  "wind_speed_max": 32.1,
+  "sunrise": "2024-11-19T07:44",
+  "sunset": "2024-11-19T16:45",
+  "sunshine_duration_seconds": 0
 }

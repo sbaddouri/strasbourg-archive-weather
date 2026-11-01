@@ -1,18 +1,13 @@
 {
   "date": "2024-10-19",
   "weather_code": 51,
-  "temp_max": 25.8,
-  "temp_min": 14.3,
-  "temp_mean": 19,
-  "precipitation": 0.1,
-  "sunshine": 31022.63,
-  "wind_speed_max": 19.2,
-  "sunrise": "2024-10-19T07:22",
-  "sunset": "2024-10-19T18:34",
-  "sunshine_duration_seconds": 31022.63,
-  "sunshine_duration_minutes": 517,
-  "estimated_daily_sunshine_minutes": 303,
-  "estimated_daily_sunshine": "5 h 03 min",
-  "sunshine_difference_minutes": 214,
-  "sunshine_consistency": "Faible"
+  "temp_max": 17,
+  "temp_min": 10.4,
+  "temp_mean": 13.8,
+  "precipitation": 0.3,
+  "sunshine": 14840.27,
+  "wind_speed_max": 14.2,
+  "sunrise": "2024-10-19T06:56",
+  "sunset": "2024-10-19T17:32",
+  "sunshine_duration_seconds": 14840.27
 }

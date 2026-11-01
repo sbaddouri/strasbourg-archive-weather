@@ -1,18 +1,13 @@
 {
   "date": "2024-07-13",
-  "weather_code": 1,
-  "temp_max": 39.3,
-  "temp_min": 25.3,
-  "temp_mean": 31.3,
-  "precipitation": 0,
-  "sunshine": 46631.05,
-  "wind_speed_max": 27.4,
-  "sunrise": "2024-07-13T06:11",
-  "sunset": "2024-07-13T20:26",
-  "sunshine_duration_seconds": 46631.05,
-  "sunshine_duration_minutes": 777,
-  "estimated_daily_sunshine_minutes": 840,
-  "estimated_daily_sunshine": "14 h 00 min",
-  "sunshine_difference_minutes": 63,
-  "sunshine_consistency": "Faible"
+  "weather_code": 53,
+  "temp_max": 21.2,
+  "temp_min": 13.2,
+  "temp_mean": 17.3,
+  "precipitation": 1,
+  "sunshine": 52315.78,
+  "wind_speed_max": 8.3,
+  "sunrise": "2024-07-13T04:41",
+  "sunset": "2024-07-13T20:28",
+  "sunshine_duration_seconds": 52315.78
 }
