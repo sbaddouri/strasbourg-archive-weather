@@ -11,7 +11,8 @@
     "wind_gusts": 10.1,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 15
   },
   {
     "time": "2024-02-26T01:00",
@@ -25,7 +26,8 @@
     "wind_gusts": 11.9,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T02:00",
@@ -39,7 +41,8 @@
     "wind_gusts": 22,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 9
   },
   {
     "time": "2024-02-26T03:00",
@@ -53,7 +56,8 @@
     "wind_gusts": 23.8,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 15
   },
   {
     "time": "2024-02-26T04:00",
@@ -67,7 +71,8 @@
     "wind_gusts": 23.4,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 15
   },
   {
     "time": "2024-02-26T05:00",
@@ -81,7 +86,8 @@
     "wind_gusts": 19.8,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 3
   },
   {
     "time": "2024-02-26T06:00",
@@ -95,7 +101,8 @@
     "wind_gusts": 23.4,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T07:00",
@@ -109,7 +116,8 @@
     "wind_gusts": 25.2,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 15
   },
   {
     "time": "2024-02-26T08:00",
@@ -123,7 +131,8 @@
     "wind_gusts": 22,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 15
   },
   {
     "time": "2024-02-26T09:00",
@@ -137,7 +146,8 @@
     "wind_gusts": 18.4,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T10:00",
@@ -151,7 +161,8 @@
     "wind_gusts": 15.5,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T11:00",
@@ -165,7 +176,8 @@
     "wind_gusts": 16.2,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 2169.52
+    "sunshine": 2169.52,
+    "estimated_hourly_sunshine_minutes": 9
   },
   {
     "time": "2024-02-26T12:00",
@@ -179,7 +191,8 @@
     "wind_gusts": 19.1,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 3132.85
+    "sunshine": 3132.85,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T13:00",
@@ -193,7 +206,8 @@
     "wind_gusts": 19.1,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 3600
+    "sunshine": 3600,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T14:00",
@@ -207,7 +221,8 @@
     "wind_gusts": 20.9,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 3600
+    "sunshine": 3600,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T15:00",
@@ -221,7 +236,8 @@
     "wind_gusts": 18.4,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 3600
+    "sunshine": 3600,
+    "estimated_hourly_sunshine_minutes": 30
   },
   {
     "time": "2024-02-26T16:00",
@@ -235,7 +251,8 @@
     "wind_gusts": 16.2,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 3600
+    "sunshine": 3600,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T17:00",
@@ -249,7 +266,8 @@
     "wind_gusts": 15.8,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 2400.69
+    "sunshine": 2400.69,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T18:00",
@@ -263,7 +281,8 @@
     "wind_gusts": 12.2,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 882.56
+    "sunshine": 882.56,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T19:00",
@@ -277,7 +296,8 @@
     "wind_gusts": 16.2,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T20:00",
@@ -291,7 +311,8 @@
     "wind_gusts": 22.7,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T21:00",
@@ -305,7 +326,8 @@
     "wind_gusts": 23.4,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T22:00",
@@ -319,7 +341,8 @@
     "wind_gusts": 20.2,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 6
   },
   {
     "time": "2024-02-26T23:00",
@@ -333,6 +356,7 @@
     "wind_gusts": 15.1,
     "visibility": null,
     "uv_index": null,
-    "sunshine": 0
+    "sunshine": 0,
+    "estimated_hourly_sunshine_minutes": 6
   }
 ]

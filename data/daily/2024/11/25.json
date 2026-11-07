@@ -9,5 +9,10 @@
   "wind_speed_max": 23.7,
   "sunrise": "2024-11-25T07:53",
   "sunset": "2024-11-25T16:40",
-  "sunshine_duration_seconds": 25200
+  "sunshine_duration_seconds": 25200,
+  "sunshine_duration_minutes": 420,
+  "estimated_daily_sunshine_minutes": 204,
+  "estimated_daily_sunshine": "3 h 24 min",
+  "sunshine_difference_minutes": 216,
+  "sunshine_consistency": "Faible"
 }
